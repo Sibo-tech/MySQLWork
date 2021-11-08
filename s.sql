@@ -1,0 +1,1 @@
+SELECT * FROM sql_inventory.products;
